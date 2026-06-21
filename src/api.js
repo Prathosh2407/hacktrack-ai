@@ -1,4 +1,4 @@
-const API_BASE = 'https://hacktrack-ai-backen.onrender.com/api';
+const API_BASE = 'https://hacktrack-ai-backend.onrender.com/api';
 
 function getToken() {
   return localStorage.getItem('token');
